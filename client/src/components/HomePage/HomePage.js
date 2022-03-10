@@ -1,7 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVideo, faKeyboard } from "@fortawesome/free-solid-svg-icons";
 import Header from "../UI/Header/Header";
-import "./HomePage.scss";
 
 const HomePage = () => {
 
